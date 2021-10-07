@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+# We are Kimnounymous
 
-You can use the [editor on GitHub](https://github.com/kimnonymous/kimnonymous.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kimnonymous/kimnonymous.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![김나니머스](https://kimnonymous.github.io/logo.png)
+<이미지 출처 : 김나니머스 자체 합성 이미지>
+> - 우리는 김씨 성을 가진 개발자들의 모임입니다. (아직까지는...)
+> - 우리는 새롭게 개발자의 세계로 들어오시려는(혹은 들어오신) 분들에게 조금이나마가지고 있는 기술을 공유하려 이 모임을 창설했습니다.
+> - 알고 있는 것을 공유하는 것은 공유하는 사람과 공유 받는 사람 모두에게 이롭다는 걸 믿습니다.
